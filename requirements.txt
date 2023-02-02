@@ -5,5 +5,5 @@ jupyterlab_widgets
 ipywidgets
 ase
 nglview
-scikitlearn
+scikit-learn
 
